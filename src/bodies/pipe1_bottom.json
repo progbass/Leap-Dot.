@@ -1,0 +1,42 @@
+{ 
+    
+    "pipe1": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   1, 437  ,  1, 0  ,  50, 44  ,  50, 437  ]
+        }
+    ],
+    
+    
+    
+    "pipe2": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   52, 437  ,  52, 0  ,  101, 44  ,  101, 437  ]
+        }
+    ],
+    
+    
+    "pipe3": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   103, 39  ,  152, -1  ,  152, 437  ,  103, 437  ]
+        }
+    ],
+    
+    
+    "pipe4": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   154, 34  ,  201, 0  ,  203, 437  ,  154, 437  ]
+        }
+    ]
+}

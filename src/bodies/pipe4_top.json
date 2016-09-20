@@ -1,0 +1,11 @@
+{ 
+    
+    "pipe_top": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   199, 413  ,  154, 437  ,  154, 0  ,  203, 0  ]
+        }
+    ]
+}
